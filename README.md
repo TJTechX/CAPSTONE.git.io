@@ -1,2 +1,0 @@
-# CAPSTONE.git.io
-Present
